@@ -3,8 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
 
-st.image(r'C:\Users\Surface Pro 5\Desktop\Classes Files\SEMESTER 2, 2526\INTRO TO DATA ANAYLTICS\Header.png')
-#st.image('Header.png')
+#st.image(r'C:\Users\Surface Pro 5\Desktop\Classes Files\SEMESTER 2, 2526\INTRO TO DATA ANAYLTICS\Header.png')
+st.image('Header.png')
 
 st.date_input("Select a date")
 
